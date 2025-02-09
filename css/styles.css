@@ -2940,36 +2940,36 @@ textarea.form-control-lg {
 }
 
 .btn-outline-primary {
-  --bs-btn-color: #606c38;
-  --bs-btn-border-color: #606c38;
+  --bs-btn-color: #a8dadc;
+  --bs-btn-border-color: #a8dadc;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #606c38;
-  --bs-btn-hover-border-color: #606c38;
+  --bs-btn-hover-bg: #a8dadc;
+  --bs-btn-hover-border-color: #a8dadc;
   --bs-btn-focus-shadow-rgb: 30, 48, 243;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #606c38;
-  --bs-btn-active-border-color: #606c38;
+  --bs-btn-active-bg: #a8dadc;
+  --bs-btn-active-border-color: #a8dadc;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-  --bs-btn-disabled-color: #606c38;
+  --bs-btn-disabled-color: #a8dadc;
   --bs-btn-disabled-bg: transparent;
-  --bs-btn-disabled-border-color: #606c38;
+  --bs-btn-disabled-border-color: #a8dadc;
   --bs-gradient: none;
 }
 
 .btn-outline-secondary {
-  --bs-btn-color: #283618;
-  --bs-btn-border-color: #283618;
+  --bs-btn-color: #457b9d;
+  --bs-btn-border-color: #457b9d;
   --bs-btn-hover-color: #000;
-  --bs-btn-hover-bg: #283618;
-  --bs-btn-hover-border-color: #283618;
+  --bs-btn-hover-bg: #457b9d;
+  --bs-btn-hover-border-color: #457b9d;
   --bs-btn-focus-shadow-rgb: 226, 30, 128;
   --bs-btn-active-color: #000;
-  --bs-btn-active-bg: #283618;
-  --bs-btn-active-border-color: #283618;
+  --bs-btn-active-bg: #457b9d;
+  --bs-btn-active-border-color: #457b9d;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-  --bs-btn-disabled-color: #283618;
+  --bs-btn-disabled-color: #457b9d;
   --bs-btn-disabled-bg: transparent;
-  --bs-btn-disabled-border-color: #283618;
+  --bs-btn-disabled-border-color: #457b9d;
   --bs-gradient: none;
 }
 
@@ -6655,14 +6655,14 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #606c38 !important;
+  color: #a8dadc !important;
 }
 .link-primary:hover, .link-primary:focus {
   color: #e9edc9 !important;
 }
 
 .link-secondary {
-  color: #283618 !important;
+  color: #457b9d !important;
 }
 .link-secondary:hover, .link-secondary:focus {
   color: #ccd5ae !important;
@@ -11515,12 +11515,12 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: #606c38;
-  background: linear-gradient(135deg, #606c38 0%, #283618 100%);
+  background: #a8dadc;
+  background: linear-gradient(135deg, #a8dadc 0%, #457b9d 100%);
 }
 
 .text-gradient {
-  background: -webkit-linear-gradient(315deg, #606c38 0%, #283618 100%);
+  background: -webkit-linear-gradient(315deg, #a8dadc 0%, #457b9d 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -11571,7 +11571,7 @@ html {
   top: 6.05vw;
 }
 .profile .dots-2 svg {
-  fill: #606c38;
+  fill: #a8dadc;
 }
 .profile .dots-3 {
   position: absolute;
@@ -11589,7 +11589,7 @@ html {
   bottom: 4vw;
 }
 .profile .dots-4 svg {
-  fill: #606c38;
+  fill: #a8dadc;
 }
 
 @media (min-width: 576px) {
