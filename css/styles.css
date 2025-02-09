@@ -12,31 +12,31 @@
  */
  
 :root {
-  --bs-primary: #d4e09b;  /* Soft green */
-  --bs-secondary: #f6f4d2; /* Pale yellow */
-  --bs-success: #cbdfbd;  /* Muted green */
-  --bs-warning: #f19c79;  /* Warm peach */
-  --bs-danger: #a44a3f;   /* Deep red-brown */
-  --bs-info: #f19c79;
-  --bs-light: #f6f4d2;
-  --bs-dark: #a44a3f;
+  --bs-primary: #e63946;  /* Red */
+  --bs-secondary: #f1faee; /* Off-white */
+  --bs-success: #a8dadc;  /* Soft teal */
+  --bs-warning: #457b9d;  /* Deep blue */
+  --bs-danger: #1d3557;   /* Dark navy */
+  --bs-info: #a8dadc;
+  --bs-light: #f1faee;
+  --bs-dark: #1d3557;
 
   /* Additional updates */
-  --bs-body-bg: #f6f4d2; /* Background color */
-  --bs-body-color: #a44a3f; /* Text color */
-  --bs-border-color: #cbdfbd; /* Border color */
-  --bs-link-color: #a44a3f;
-  --bs-link-hover-color: #f19c79;
-  --bs-highlight-bg: #cbdfbd;
+  --bs-body-bg: #f1faee; /* Background color */
+  --bs-body-color: #1d3557; /* Text color */
+  --bs-border-color: #a8dadc; /* Border color */
+  --bs-link-color: #e63946;
+  --bs-link-hover-color: #457b9d;
+  --bs-highlight-bg: #a8dadc;
 
   /* RGB Versions */
-  --bs-primary-rgb: 212, 224, 155;
-  --bs-secondary-rgb: 246, 244, 210;
-  --bs-success-rgb: 203, 223, 189;
-  --bs-warning-rgb: 241, 156, 121;
-  --bs-danger-rgb: 164, 74, 63;
-  --bs-light-rgb: 246, 244, 210;
-  --bs-dark-rgb: 164, 74, 63;
+  --bs-primary-rgb: 230, 57, 70;
+  --bs-secondary-rgb: 241, 250, 238;
+  --bs-success-rgb: 168, 218, 220;
+  --bs-warning-rgb: 69, 123, 157;
+  --bs-danger-rgb: 29, 53, 87;
+  --bs-light-rgb: 241, 250, 238;
+  --bs-dark-rgb: 29, 53, 87;
 }
 
 *,
